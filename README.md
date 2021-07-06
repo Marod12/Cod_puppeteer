@@ -1,7 +1,10 @@
 # Cod Puppeteer
-documentação do [Puppeteer](https://github.com/puppeteer/puppeteer)
 
-## Intalar as dependencias
+Robo que faz login no [Call of Duty profile](https://profile.callofduty.com/cod/login) e retorna informações no console
+
+>documentação do [Puppeteer](https://github.com/puppeteer/puppeteer)
+
+## Instale as dependencias
 ```
 #node
 npm install
@@ -29,7 +32,7 @@ PASS=
     Acessou a página de recent matches
    
     __ Última partida __
-    Ficou em <lugar>°
+    Ficou em 
     Modo 
     Kills 
     Damage 
